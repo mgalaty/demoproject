@@ -1,0 +1,4 @@
+com\ibm\demoproject\DemoProjectApplication.class
+com\ibm\demoproject\rest\DemoProjectController.class
+com\ibm\demoproject\service\DemoProjectServiceImpl.class
+com\ibm\demoproject\service\DemoProjectService.class
